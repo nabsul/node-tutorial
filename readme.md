@@ -7,7 +7,7 @@ This is a quick tutorial to get you understanding the most important concepts of
 - Install NodeJS if you don't have it already
 - Install Git if you don't have it already
 - From cmd/powershell/bash go to your projects directory
-- Type `git clone https://github.com/nabsul/node-tutorial`
+- Type `git clone https://github.com/nabsul/node-tutorial.git`
 - Type `cd node-tutorial`
 
 # Exercise 1: Hello World
